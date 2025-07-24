@@ -1,4 +1,4 @@
-# 🔥 Fire Detection Using ResNet18 with Fine-Tuning & Streamlit Deployment
+# 🔥 Fire Detection Using ResNet18 with Fine-Tuning 
 
 This project is a deep learning solution for detecting fire in images. It leverages the **ResNet18** architecture with **transfer learning and fine-tuning** to improve performance. The model is deployed using **Streamlit**, providing a simple web-based interface for users to upload an image and receive fire detection results.
 
@@ -6,7 +6,7 @@ This project is a deep learning solution for detecting fire in images. It levera
 
 ## 📁 Project Structure
 
-├── app.py # Streamlit web app
+├── App.py # Streamlit web app
 
 ├── Fire_detection_model.h5 # Trained ResNet18 model (NOT INCLUDED – see below)
 
